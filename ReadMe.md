@@ -7,7 +7,7 @@ An additional hidden layer after the heads and MLP again improve performance sig
 The implementation of batch and layer norm is shortly touched, and PyTorch's implementation of the layer norm is added. 
 Lastly, dropout is added, and then the network is scaled with parameters.
 
-[^1] https://www.youtube.com/watch?v=kCc8FmEb1nY
+[^1]: https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 
 ## Hardware limitation
